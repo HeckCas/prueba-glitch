@@ -147,6 +147,13 @@ app.run(debug=True, host='localhost', port=5000) # Solo va en local
 
 
 
+# Esto va en prod
+
+#if __name__ == "__main__":
+#	app.run()
+
+
+
 
 
 
